@@ -17,3 +17,7 @@ function whileLoop(x) {
     }
     return ('done');
 }
+
+function doWhileLoop(array) {
+    
+}
