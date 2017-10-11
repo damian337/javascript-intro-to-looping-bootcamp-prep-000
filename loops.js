@@ -4,6 +4,6 @@ for (var i = 0; i < 10; i++) {
     }
 
     else {
-        console.log("I am " + i + "strange loops.");
+        console.log("I am " + i + " strange loops.");
     }
 }
