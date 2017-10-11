@@ -11,6 +11,6 @@ function forLoop(array) {
 return array
 }
 
-function whileLoop(i) {
+function whileLoop(x) {
     
 }
