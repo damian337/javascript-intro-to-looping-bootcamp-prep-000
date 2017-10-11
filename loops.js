@@ -17,5 +17,3 @@ function whileLoop(x) {
     }
     return ('done');
 }
-
-whileLoop(9);
