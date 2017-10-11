@@ -12,7 +12,7 @@ return array
 }
 
 function whileLoop(x) {
-    while (i > 0) {
+    while (x > 0) {
         console.log(--i);
     }
 }
