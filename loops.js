@@ -16,3 +16,5 @@ function whileLoop(x) {
         console.log(--i);
     }
 }
+
+whileLoop(9)
