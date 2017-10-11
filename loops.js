@@ -15,7 +15,7 @@ function whileLoop(x) {
     while (x >= 0) {
         console.log(x--);
     }
-    console.log('done');
+    return ('done');
 }
 
 whileLoop(9);
