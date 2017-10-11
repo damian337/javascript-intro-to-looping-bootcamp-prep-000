@@ -13,7 +13,7 @@ return array
 
 function whileLoop(x) {
     while (x > 0) {
-        console.log(--i);
+        console.log(--x);
     }
 }
 
